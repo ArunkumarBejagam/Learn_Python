@@ -1,3 +1,7 @@
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
 ## Not efficient but works with less available conditions :
 
 #def jump():
