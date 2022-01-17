@@ -13,9 +13,8 @@ def jump_hurdle():
     move()
     turn_left()
 
-jump_hurdle()
-jump_hurdle()
-jump_hurdle()
-jump_hurdle()
-jump_hurdle()
-jump_hurdle()
+number_of_hurdles = 6
+i = 1   
+for i in range(1,number_of_hurdles+1):
+    jump_hurdle()
+    i+=1
