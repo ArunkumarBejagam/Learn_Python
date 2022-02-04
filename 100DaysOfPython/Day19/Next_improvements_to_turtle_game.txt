@@ -1,0 +1,6 @@
+Allow users to select screen size
+allow users to change the background color
+allow users to change turtle size and shape
+Allow users to restart the game
+Allow users to do number of times they want to guess
+Allow users to speed up the turtle race (allow them to  select the speed)
